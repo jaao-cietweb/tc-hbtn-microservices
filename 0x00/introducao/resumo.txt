@@ -1,0 +1,6 @@
+Os microserviços se tratam de uma estratégia de arquitetura de software que prega a individualidade entre os componentes do sistema.
+Como isso é feito? é mais fácil entender uma arquitetura mais simples e então ver as diferenças, na arquitetura monolítica um produto que é desenvolvido
+em total contato com as outras partes e desta mesma forma é armazenado em apenas um banco de dados, um projeto que utiliza microserviços faz uso de
+pequenos módulos em que cada um desempenha um papel e contém seu próprio banco de dados, desta forma temos um programa no geral independente de suas
+menores partes, assim processos como manutenção e expansão se tornam menos problemáticos e caso um problema ocorra será mais fácil de ser tratado,
+desta forma o sistema ficará menos tempo inativo. Para se comunicar os microserviços utilizam comunicações do tipo HTTP, mensagens e orientada a objeto.

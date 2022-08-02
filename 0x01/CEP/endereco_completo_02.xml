@@ -1,19 +1,2 @@
-
-    <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-    <html>
-        <head>
-            <title>Error: 404 Not Found</title>
-            <style type="text/css">
-              html {background-color: #eee; font-family: sans;}
-              body {background-color: #fff; border: 1px solid #ddd;
-                    padding: 15px; margin: 15px;}
-              pre {background-color: #eee; border: 1px solid #ddd; padding: 5px;}
-            </style>
-        </head>
-        <body>
-            <h1>Error: 404 Not Found</h1>
-            <p>Sorry, the requested URL <tt>&#039;https://api.postmon.com.br/v1/cep/13086-902/?format=xml&#039;</tt>
-               caused an error:</p>
-            <pre>Not found: &#039;/cep/13086-902/&#039;</pre>
-        </body>
-    </html>
+<?xml version="1.0" encoding="utf-8"?>
+<result><bairro>Polo II de Alta Tecnologia (Campinas)</bairro><cidade>Campinas</cidade><logradouro>Rua Doutor Ricardo Benetton Martins, s/n</logradouro><estado_info><area_km2>248.221,996</area_km2><codigo_ibge>35</codigo_ibge><nome>São Paulo</nome></estado_info><cep>13086902</cep><cidade_info><area_km2>794,571</area_km2><codigo_ibge>3509502</codigo_ibge></cidade_info><estado>SP</estado></result>
